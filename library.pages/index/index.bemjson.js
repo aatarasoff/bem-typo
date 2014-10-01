@@ -34,8 +34,6 @@
                         '}'
                     ]
                 },
-
-                { block : 'paragraph', mods : { marker : 'nb' }, content : 'paragraph with NB' },
                 { block : 'list', items: [ 'unordered 1', 'unordered 2' ] },
                 { block : 'list', mods : { type: 'ordered' }, items: [ 'ordered 1', 'ordered 2' ] },
                 {
